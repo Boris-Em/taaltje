@@ -1,0 +1,1 @@
+{"name": "Taaltje", "short_name": "Taaltje", "start_url": "./index.html", "display": "standalone", "background_color": "#f4f6fb", "theme_color": "#1f4e9c", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
